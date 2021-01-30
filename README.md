@@ -1,9 +1,11 @@
 # Filter-Gradient-Decent
+Update: This project also include the code for paper
+**Kalman Optimizer for Consistent Gradient Descent**
+*Xingyi Yang, (ICASSP2021)*
 
 Course project for ECE 251C UCSD. Code for paper,
 
-**Stochastic Gradient Variance Reduction
-by Solving a Filtering Problem**
+**Stochastic Gradient Variance Reduction by Solving a Filtering Problem**
 
 In this paper, we propose Filter Gradient Decent (FGD), an
 efficient stochastic optimization algorithm that make consistent
