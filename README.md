@@ -2,7 +2,7 @@
 Update: This project also include the code for paper
 
 **Kalman Optimizer for Consistent Gradient Descent**
-*Xingyi Yang, (ICASSP2021)*
+*Xingyi Yang, (ICASSP2021)* [paper](https://ieeexplore.ieee.org/document/9414588)
 
 Course project for ECE 251C UCSD. Code for paper,
 
